@@ -2,19 +2,23 @@
   "prodotti": [
     {
       "nome": "Prodotto 1",
-      "descrizione": "Questo è il primo prodotto. È un prodotto di alta qualità con caratteristiche eccezionali."
+      "descrizione": "Questo è il primo prodotto. È un prodotto di alta qualità con caratteristiche eccezionali.",
+      "prezzo": 12
     },
     {
       "nome": "Prodotto 2",
-      "descrizione": "Il secondo prodotto è una scelta eccellente per chi cerca qualcosa di affidabile e conveniente."
+      "descrizione": "Il secondo prodotto è una scelta eccellente per chi cerca qualcosa di affidabile e conveniente.",
+      "prezzo": 17
     },
     {
       "nome": "Prodotto 3",
-      "descrizione": "Questo è il terzo prodotto. È progettato per soddisfare le esigenze dei clienti più esigenti."
+      "descrizione": "Questo è il terzo prodotto. È progettato per soddisfare le esigenze dei clienti più esigenti.",
+      "prezzo": 25
     },
     {
       "nome": "Prodotto 4",
-      "descrizione": "Il quarto prodotto è una novità emozionante con funzionalità avanzate per migliorare la tua esperienza."
+      "descrizione": "Il quarto prodotto è una novità emozionante con funzionalità avanzate per migliorare la tua esperienza.",
+      "prezzo": 2
     }
   ]
 }
